@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: package data_scraper</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>data_scraper</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:c%3A%5Cusers%5Chp%5Cdownloads%5Cdata_scraper%5C__init__.py">c:\users\hp\downloads\data_scraper\__init__.py</a></font></td></tr></table>
+    <p><tt>#&nbsp;coding:&nbsp;utf-8</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Package Contents</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="data_scraper.Data_Scrapping_with_Functions.html">Data_Scrapping_with_Functions</a><br>
+</td><td width="25%" valign=top></td><td width="25%" valign=top></td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-get_processed_urls"><strong>get_processed_urls</strong></a>(urls)</dt><dd><tt>From&nbsp;the&nbsp;given&nbsp;urls&nbsp;list&nbsp;segregate&nbsp;and&nbsp;seperate&nbsp;the&nbsp;mail&nbsp;links&nbsp;and&nbsp;the&nbsp;profile&nbsp;links<br>
+A&nbsp;list&nbsp;of&nbsp;urls&nbsp;is&nbsp;passed&nbsp;and&nbsp;we&nbsp;seperate&nbsp;the&nbsp;links&nbsp;to&nbsp;profiles&nbsp;from&nbsp;the&nbsp;mail&nbsp;links&nbsp;and&nbsp;append&nbsp;in&nbsp;processed_urls</tt></dd></dl>
+ <dl><dt><a name="-main"><strong>main</strong></a>()</dt><dd><tt>Consists&nbsp;of&nbsp;list&nbsp;of&nbsp;links&nbsp;for&nbsp;which&nbsp;data&nbsp;to&nbsp;be&nbsp;scrapped<br>
+The&nbsp;following&nbsp;for&nbsp;loop&nbsp;traverses&nbsp;this&nbsp;list&nbsp;and&nbsp;passes&nbsp;each&nbsp;of&nbsp;the&nbsp;links&nbsp;to&nbsp;function&nbsp;process_a&nbsp;_department<br>
+process_a_department&nbsp;calls&nbsp;the&nbsp;further&nbsp;necessary&nbsp;functions&nbsp;to&nbsp;process&nbsp;the&nbsp;link&nbsp;and&nbsp;create&nbsp;the&nbsp;output&nbsp;text&nbsp;file&nbsp;containing&nbsp;all&nbsp;the&nbsp;relevant&nbsp;information</tt></dd></dl>
+ <dl><dt><a name="-make_text_file"><strong>make_text_file</strong></a>(vals, processed_urls)</dt><dd><tt>To&nbsp;create&nbsp;text&nbsp;files&nbsp;for&nbsp;the&nbsp;data&nbsp;extracted&nbsp;from&nbsp;Profile&nbsp;section&nbsp;and&nbsp;realtive&nbsp;links&nbsp;of&nbsp;the&nbsp;processed&nbsp;urls&nbsp;<br>
+The&nbsp;list&nbsp;of&nbsp;urls&nbsp;for&nbsp;the&nbsp;profile&nbsp;section&nbsp;are&nbsp;analyzed&nbsp;and&nbsp;data&nbsp;is&nbsp;sccrapped&nbsp;off&nbsp;from&nbsp;these&nbsp;and&nbsp;stored&nbsp;in&nbsp;txt&nbsp;files<br>
+Once&nbsp;text&nbsp;files&nbsp;are&nbsp;created&nbsp;for&nbsp;each&nbsp;unique&nbsp;name&nbsp;id&nbsp;relative&nbsp;links&nbsp;are&nbsp;checked<br>
+The&nbsp;list&nbsp;of&nbsp;vals&nbsp;is&nbsp;traversed&nbsp;where&nbsp;these&nbsp;relative&nbsp;links&nbsp;are&nbsp;checked&nbsp;and&nbsp;written&nbsp;into&nbsp;the&nbsp;respective&nbsp;name&nbsp;id&nbsp;text&nbsp;file&nbsp;with&nbsp;UTF-8&nbsp;encoding</tt></dd></dl>
+ <dl><dt><a name="-my_function"><strong>my_function</strong></a>(link)</dt><dd><tt>Function&nbsp;to&nbsp;get&nbsp;list&nbsp;of&nbsp;urls&nbsp;for&nbsp;data&nbsp;to&nbsp;scrap&nbsp;and&nbsp;creating&nbsp;their&nbsp;Response&nbsp;Objects&nbsp;<br>
+Link&nbsp;is&nbsp;passed&nbsp;to&nbsp;this&nbsp;function&nbsp;where&nbsp;we&nbsp;use&nbsp;requests.get()&nbsp;to&nbsp;create&nbsp;its&nbsp;Response&nbsp;Object<br>
+Content&nbsp;of&nbsp;the&nbsp;response&nbsp;object&nbsp;parsed&nbsp;via&nbsp;Beautiful&nbsp;Soup&nbsp;LXML&nbsp;parser<br>
+List&nbsp;of&nbsp;URLS&nbsp;is&nbsp;appended&nbsp;using&nbsp;the&nbsp;unique&nbsp;attribute&nbsp;of&nbsp;the&nbsp;web&nbsp;pages&nbsp;i.e.&nbsp;HREF</tt></dd></dl>
+ <dl><dt><a name="-process_a_department"><strong>process_a_department</strong></a>(link)</dt><dd><tt>To&nbsp;sequentially&nbsp;call&nbsp;the&nbsp;functions&nbsp;required&nbsp;to&nbsp;process&nbsp;the&nbsp;link&nbsp;and&nbsp;scrap&nbsp;data</tt></dd></dl>
+</td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>vals</strong> = ['CurriculumVitae', 'SponsoredProjects', 'Courses', 'Publications', 'ProfessionalWork', 'ResearchInterest', 'Seminars', 'Memberships', 'ResearchPublications', 'VisitsAbroad', 'ProfessionalMemberships', 'Awards', 'ResearchProjects', 'InstitutionalContribution', 'AwardsandRecognitions', 'ResearchScholar', 'InstitutionalResponsibilities', 'InviteTalks', 'ProfessionalActivities', 'Students', ...]</td></tr></table>
+</body></html>
