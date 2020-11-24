@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module SearchEngine</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>SearchEngine</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:c%3A%5Cusers%5Caditya%20agarwal%5C.spyder-py3%5Csearchengine.py">c:\users\aditya agarwal\.spyder-py3\searchengine.py</a></font></td></tr></table>
+    <p></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="PIL.Image.html">PIL.Image</a><br>
+<a href="PIL.ImageTk.html">PIL.ImageTk</a><br>
+</td><td width="25%" valign=top><a href="nltk.html">nltk</a><br>
+<a href="os.html">os</a><br>
+</td><td width="25%" valign=top><a href="requests.html">requests</a><br>
+<a href="sys.html">sys</a><br>
+</td><td width="25%" valign=top><a href="time.html">time</a><br>
+<a href="tkinter.html">tkinter</a><br>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-calcTfIdfScore"><strong>calcTfIdfScore</strong></a>(word, freq)</dt><dd><tt>Calculates&nbsp;td-idf&nbsp;square&nbsp;for&nbsp;query&nbsp;using&nbsp;formula&nbsp;-&nbsp;<a href="#-log">log</a>(1&nbsp;+&nbsp;freq)&nbsp;*&nbsp;<a href="#-log">log</a>(numDocs&nbsp;/&nbsp;docFreqVector[word])</tt></dd></dl>
+ <dl><dt><a name="-calcTfIdfScoreX"><strong>calcTfIdfScoreX</strong></a>(word, freq)</dt><dd><tt>Calculates&nbsp;td-idf&nbsp;square&nbsp;using&nbsp;formula&nbsp;-&nbsp;<a href="#-log">log</a>(1&nbsp;+&nbsp;freq)&nbsp;*&nbsp;<a href="#-log">log</a>(numDocs&nbsp;/&nbsp;docFreqVector[word])</tt></dd></dl>
+ <dl><dt><a name="-convertQToTfIdf"><strong>convertQToTfIdf</strong></a>(qvec)</dt><dd><tt>Converts&nbsp;term&nbsp;frequency&nbsp;and&nbsp;inverse&nbsp;document&nbsp;frequency&nbsp;to&nbsp;TF-IDF&nbsp;score&nbsp;for&nbsp;query.</tt></dd></dl>
+ <dl><dt><a name="-getCurrentDocVector"><strong>getCurrentDocVector</strong></a>(toks)</dt><dd><tt>Builds&nbsp;TF&nbsp;vector&nbsp;and&nbsp;also&nbsp;updates&nbsp;IDF&nbsp;value.</tt></dd></dl>
+ <dl><dt><a name="-getCurrentDocVectorQuery"><strong>getCurrentDocVectorQuery</strong></a>(toks)</dt><dd><tt>Build&nbsp;term&nbsp;frequency&nbsp;dictionary&nbsp;for&nbsp;document.</tt></dd></dl>
+ <dl><dt><a name="-getDir"><strong>getDir</strong></a>(dir)</dt><dd><tt>Get&nbsp;directory&nbsp;of&nbsp;documents&nbsp;and&nbsp;then&nbsp;call&nbsp;pre-processing&nbsp;and&nbsp;indexing&nbsp;functions&nbsp;sequentially.</tt></dd></dl>
+ <dl><dt><a name="-getDotProduct"><strong>getDotProduct</strong></a>(v1, v2)</dt><dd><tt>Get&nbsp;product&nbsp;between&nbsp;one&nbsp;document&nbsp;and&nbsp;query&nbsp;vector.</tt></dd></dl>
+ <dl><dt><a name="-getInvIndexes"><strong>getInvIndexes</strong></a>()</dt><dd><tt>Makes&nbsp;a&nbsp;map&nbsp;for&nbsp;each&nbsp;document&nbsp;from&nbsp;tokens&nbsp;to&nbsp;line&nbsp;number.</tt></dd></dl>
+ <dl><dt><a name="-getNumDocs"><strong>getNumDocs</strong></a>()</dt><dd><tt>Get&nbsp;number&nbsp;of&nbsp;documents.</tt></dd></dl>
+ <dl><dt><a name="-getQuery"><strong>getQuery</strong></a>(query)</dt><dd><tt>Get&nbsp;query&nbsp;input&nbsp;and&nbsp;process&nbsp;the&nbsp;query.</tt></dd></dl>
+ <dl><dt><a name="-getTFforAllDocs"><strong>getTFforAllDocs</strong></a>()</dt><dd><tt>Run&nbsp;various&nbsp;processing&nbsp;functions&nbsp;for&nbsp;each&nbsp;document&nbsp;sequentially.</tt></dd></dl>
+ <dl><dt><a name="-getText"><strong>getText</strong></a>(x, file)</dt><dd><tt>Parse&nbsp;documents&nbsp;to&nbsp;get&nbsp;text.</tt></dd></dl>
+ <dl><dt><a name="-getTfIdf"><strong>getTfIdf</strong></a>()</dt><dd><tt>Converts&nbsp;term&nbsp;frequency&nbsp;and&nbsp;inverse&nbsp;document&nbsp;frequency&nbsp;to&nbsp;TF-IDF&nbsp;score.</tt></dd></dl>
+ <dl><dt><a name="-getTokens"><strong>getTokens</strong></a>(RawText)</dt><dd><tt>Tokenization,&nbsp;stemming&nbsp;using&nbsp;the&nbsp;nltk&nbsp;PorterStemmer.</tt></dd></dl>
+ <dl><dt><a name="-log"><strong>log</strong></a>(...)</dt><dd><tt><a href="#-log">log</a>(x,&nbsp;[base=math.e])<br>
+Return&nbsp;the&nbsp;logarithm&nbsp;of&nbsp;x&nbsp;to&nbsp;the&nbsp;given&nbsp;base.<br>
+&nbsp;<br>
+If&nbsp;the&nbsp;base&nbsp;not&nbsp;specified,&nbsp;returns&nbsp;the&nbsp;natural&nbsp;logarithm&nbsp;(base&nbsp;e)&nbsp;of&nbsp;x.</tt></dd></dl>
+ <dl><dt><a name="-resFromQuery"><strong>resFromQuery</strong></a>(qvec)</dt><dd><tt>Get&nbsp;dot&nbsp;product&nbsp;of&nbsp;between&nbsp;query&nbsp;vector&nbsp;and&nbsp;each&nbsp;document&nbsp;vector.</tt></dd></dl>
+ <dl><dt><a name="-sqrt"><strong>sqrt</strong></a>(x, /)</dt><dd><tt>Return&nbsp;the&nbsp;square&nbsp;root&nbsp;of&nbsp;x.</tt></dd></dl>
+</td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>HEIGHT</strong> = 600<br>
+<strong>WIDTH</strong> = 600<br>
+<strong>background_label</strong> = &lt;tkinter.Label object .!label&gt;<br>
+<strong>button</strong> = &lt;tkinter.Button object .!frame.!button&gt;<br>
+<strong>button2</strong> = &lt;tkinter.Button object .!frame2.!button&gt;<br>
+<strong>canvas</strong> = &lt;tkinter.Canvas object .!canvas&gt;<br>
+<strong>directory</strong> = ''<br>
+<strong>docFreqVector</strong> = {}<br>
+<strong>entry</strong> = &lt;tkinter.Entry object .!frame.!entry&gt;<br>
+<strong>entry2</strong> = &lt;tkinter.Entry object .!frame2.!entry&gt;<br>
+<strong>frame</strong> = &lt;tkinter.Frame object .!frame&gt;<br>
+<strong>frame2</strong> = &lt;tkinter.Frame object .!frame2&gt;<br>
+<strong>imagex</strong> = &lt;PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=1400x787&gt;<br>
+<strong>label</strong> = &lt;tkinter.Label object .!frame3.!label&gt;<br>
+<strong>lower_frame</strong> = &lt;tkinter.Frame object .!frame3&gt;<br>
+<strong>mapOfDocs</strong> = {}<br>
+<strong>numDocs</strong> = 0<br>
+<strong>photo</strong> = &lt;PIL.ImageTk.PhotoImage object&gt;<br>
+<strong>root</strong> = &lt;tkinter.Tk object .&gt;<br>
+<strong>vectOfDocs</strong> = []</td></tr></table>
+</body></html>
