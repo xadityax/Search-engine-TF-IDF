@@ -1,0 +1,2740 @@
+
+
+
+       
+        Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+                        (function () {
+                            var cx = '004486812569786260579:g6q4as2bfly';
+                            var gcse = document.createElement('script');
+                            gcse.type = 'text/javascript';
+                            gcse.async = true;
+                            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                            var s = document.getElementsByTagName('script')[0];
+                            s.parentNode.insertBefore(gcse, s);
+                        })();
+
+
+
+University HomeCampus HomeDepartment Home
+
+
+
+                    Page last updated on 
+Tuesday, August 11, 2020
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+Profile
+
+
+
+
+
+ Profile
+
+
+
+
+
+Profile
+
+
+
+
+
+
+
+
+
+
+                                Dr. Runa Kumari
+
+
+PhD  Contact DetailsRoom No  H / 208Department of Electrical and Electronics Engineering BITS Pilani, Hyderabad Campus,Jawahar Nagar, Shameerpet Mandal,Hyderabad-500078,Telangana, India Email: runakumari@hyderabad.bits-pilani.ac.inPhone: Phone: +91-40 66303659(O) About the Faculty Educational Qualification  Ph.D. Electronics and communication
+Engineering, National Institute of Technology (NIT), Rourkela, Odisha, INDIA (2014).
+Thesis
+Title: Investigation
+on possible realization of Log Periodic Dielectric Resonator antenna.  Professional Experience:   Senior Lecturer in National      Institute of science and Technology (NIST), Berhampur, Odisha from May      2008 to Dec 2009. Lecturer in Synergy      Institute of Engineering and Technology, Dhenkanal, Odisha from Sept-2005      to Aug-2006.   Project/Training :  ·         Two months’ Industry Immersion training on “Antenna Design for Aircraft Applications” at Centre for Electromagnetic (CEM) Lab, CSIR-NAL, Bangalore, India under the guidance of Dr. Balamati Choudhury, Scientist from 21st May 2018 to 13th July 2018.         ·         Two months project on “Reconfigurable Dielectric Resonator Antenna array” at Antenna and Microwave Lab, Department of Electrical and Computer Engineering, San Diego State University (SDSU), San Diego, California, USA under the supervision of Prof. Satish K. Sharma from 31st may 2013 to 31st July 2013.         ·         One year project on “Implementation of Broadband Power line Communication modem using FPGA kit” at Microwave Engineering Lab, Department of Electronics and Electrical Engineering, Indian Institute of Technology (IIT), Kharagpur, West Bengal, India under the supervision of Prof. Amitabh Bhattacharya from June 2007 to May 2008.  Reviewer:     Journals:  IEEE Antennas      and Wireless Propagation Letters. IET Microwave, Antennas and Propagation SocietiesIET, Electronics LettersACES The Applied Computational Electromagnetics SocietyElsevier, International Journal of Electronics and CommunicationsIEEE AccessJournal of Electromagnetic Waves and Applications, Taylor & FrancisWiley: International Journal of RF and Microwave Computer-Aided Engineering    Conferences:IEEE International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW-2019), NIT Tiruchirappalli, India, 22-24 May. 2019.  IEEE International Conference on Applied Electromagnetics, Signal Processing & Communication (AESPC-2018), Bhubaneswar, India, 22-24 Oct. 2018.IEEE International conference SPACES 2015 held at KL University Vijayawada India on 2-3 Jan 2015. IEEE International conference on Microwave and Photonics ICMAP 2015, Indian School of Mines Dhanbad India on 11-13 Dec 2015. IEEE International conference on "Microwave, Optical and Communication Engineering ICMOCE 2015,  IIT Bhubaneswar, Odisha India on 18-20 Dec 2015. IEEE Applied Electromagnetics Conference, AEMC- 2015, IIT Guwahati, Assam India, 18-21 Dec. 2015.        
+
+
+
+
+
+
+ProfileCoursesSponsored ProjectsResearch InterestPublicationsSeminarsConference/Workshop conducted
+
+
+
+
+
+
+
+Quick Links
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 Centre for Software Development,SDET Unit, BITS-Pilani, India. 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+
+       
+        Sponsored Projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+                        (function () {
+                            var cx = '004486812569786260579:g6q4as2bfly';
+                            var gcse = document.createElement('script');
+                            gcse.type = 'text/javascript';
+                            gcse.async = true;
+                            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                            var s = document.getElementsByTagName('script')[0];
+                            s.parentNode.insertBefore(gcse, s);
+                        })();
+
+
+
+University HomeCampus HomeDepartment Home
+
+
+
+                    Page last updated on 
+Tuesday, August 11, 2020
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+Sponsored Projects
+
+
+
+
+
+ Sponsored Projects
+
+
+
+
+
+Sponsored Projects
+
+
+
+
+
+
+
+
+
+
+                                Sponsored Projects
+
+
+1. RIG Grant, BITS Pilani Title:  "Reconfigurable Dielectric Resonator Antenna for Wireless Applications"  Role: Principal InvestigatorDuration: Mar 2016-Feb 2018  2. Contract for Acquisition of Research Services (CARS) from Research Centre Imarat (RCI) DRDO, Hyderabad. Title:  " Studies and Multiphysics Simulation of Mode Converters for Application in Directed Energy Weapons (DEWs)" Role: Co-      InvestigatorDuration: 6 Months (May 2019-Oct 2019)  3. Contract for Acquisition of Research Services (CARS) from Defence Electronics Research Laboratory (DLRL) DRDO, Hyderabad.Title:  " Design of miniaturised 5 GHz High Pass Filter (HPF) and study of interference due to multichip Packaging in TR module/Plank"Role:Principal InvestigatorDuration: 12 Months (Jan 2020-Jan 2021)       
+
+
+
+
+
+
+ProfileCoursesSponsored ProjectsResearch InterestPublicationsSeminarsConference/Workshop conducted
+
+
+
+
+
+
+
+Quick Links
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 Centre for Software Development,SDET Unit, BITS-Pilani, India. 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+
+       
+        Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+                        (function () {
+                            var cx = '004486812569786260579:g6q4as2bfly';
+                            var gcse = document.createElement('script');
+                            gcse.type = 'text/javascript';
+                            gcse.async = true;
+                            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                            var s = document.getElementsByTagName('script')[0];
+                            s.parentNode.insertBefore(gcse, s);
+                        })();
+
+
+
+University HomeCampus HomeDepartment Home
+
+
+
+                    Page last updated on 
+Tuesday, August 11, 2020
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+Courses
+
+
+
+
+
+ Courses
+
+
+
+
+
+Courses
+
+
+
+
+
+
+
+
+
+
+                                Courses
+
+
+EEE F111 Electrical SciencesECE F311 Communication SystemsCS/ECE/EEE/INSTR F241 Microprocessor Programming & InterfacingECE F343 Communication NetworksECE F344 Information Theory and Coding ECE F314: Electromagnetic Fields and Microwave EngineeringEEE G592  Mobile and Personal CommunicationEEE G581  RF & Microwave Engineering EEE G612  Coding Theory & PracticeEEE G622  Advanced Digital CommunicationEEE/ECE/F472 Satellite communicationEEE F474 Antenna Theory and Design CS/ECE/EEE/EI F215 Digital Design Lab CS/ECE/EEE/INSTR F241 Microprocessor Programming & Interfacing LabECE F312 Electromagnetic Fields and Microwave Engineering Laboratory ECE F311 Communication Systems  LabEEE G592  Mobile and Personal Communication LabEEE G581  RF & Microwave Engineering LabEEE G612  Coding Theory & Practice LabEEE G622  Advanced Digital Communication Lab    
+
+
+
+
+
+
+ProfileCoursesSponsored ProjectsResearch InterestPublicationsSeminarsConference/Workshop conducted
+
+
+
+
+
+
+
+Quick Links
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 Centre for Software Development,SDET Unit, BITS-Pilani, India. 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+
+       
+        Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+                        (function () {
+                            var cx = '004486812569786260579:g6q4as2bfly';
+                            var gcse = document.createElement('script');
+                            gcse.type = 'text/javascript';
+                            gcse.async = true;
+                            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                            var s = document.getElementsByTagName('script')[0];
+                            s.parentNode.insertBefore(gcse, s);
+                        })();
+
+
+
+University HomeCampus HomeDepartment Home
+
+
+
+                    Page last updated on 
+Tuesday, August 11, 2020
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+Publications
+
+
+
+
+
+ Publications
+
+
+
+
+
+Publications
+
+
+
+
+
+
+
+
+
+
+                                Publications
+
+
+ LIST OF PUBLICATIONS  Peer-Review Book (as an editor):  Runa Kumari and Balamati Choudhury, “ Multiscale Modelling of Advanced Materials (Materials Horizons: From Nature to Nanomaterials)”, Springer; 1st ed. 2020. (as an editor). Peer-Review Book Chapters:    R Venkata Sravya and Runa Kumari, “Electromagnetic Bandgap Structures: Multiscale Modelling of Advanced Materials (Materials Horizons: From Nature to Nanomaterials)”, Springer; 1st ed. 2020.Sandeep Kumar and Runa Kumari, “Metamaterial Resonator Antennas:Multiscale Modelling of Advanced Materials (Materials Horizons: From Nature to Nanomaterials)”, Springer; 1st ed. 2020.Peer-Review Journals:    R. Venkata Sravya, and Runa Kumari, “Gain and Isolation Enhancement of Patch Antenna using L-slotted Mushroom EBG”, International Journal of RF and Microwave Computer-Aided Engineering (Wiley), June 2020. (accepted) (SCI indexed)Sandeep Kumar, and Runa Kumari, “Composite right/left-handed ultra-wideband metamaterial antenna with improved gain”, Microwave Opt Technol Lett. (MOTL, Wiley), July 2020, https://doi.org/10.1002/mop.32552. (SCI indexed) Sandeep Kumar, and Runa Kumari, “Bandwidth and Gain-Enhanced Composite Right/Left-Handed Antenna for Ultra-Wideband Applications”, Internationa l Journal of RF and Microwave Computer-Aided Engineering (Wiley), December 2019.  DOI: 10.1002/mmce.22095(SCI indexed) Vinnakota Sarath Sankar, Basudev Majumder, and Runa Kumari, “Dual Polarized High Gain Resonant Cavity Antenna for RF Energy Harvesting”, International Journal of RF and Microwave Computer-Aided Engineering (Wiley), October 2019. DOI:10.1002/mmce.22003) (SCI indexed)Sandeep Kumar, and Runa Kumari, “Bandwidth Enhanced CPW-Fed CRLH Antenna Loaded withResonating Rings”, IET Microwave, Antennas and Propagation, June 2019. (SCI indexed)Sandeep Kumar,      and Runa Kumari ,      “Composite Right/Left-Handed Wideband      Metamaterial Antenna Loaded with SRRs and CSRRs to Improve Gain and      Efficiency", IET Microwave, Antennas and Propagation, March 2019. (SCI indexed)Runa Kumari and Santanu Kumar Behera, “Capacitive coupled Frequency Independent      Dielectric Resonator Antenna Array for X-band Applications”, IETE Journal of Research (TIJR), Taylor      & Francis, March 2019. DOI:  https://doi.org/10.1080/03772063.2019.1600438 . (SCI indexed)Runa      Kumari and Santanu Kumar Behera, “Investigation on Log Periodic Dielectric Resonator      Antenna Array for Ku band Applications”, Taylor & Francis,      Electromagnetics, vol. 34, Issue 1, 2014,  pp. 19-33. (SCI indexed)Runa Kumari and Santanu Kumar Behera, “Wideband Log Periodic Dielectric Resonator Array with Overlaid Microstrip Feed Line”, IET Microwave, Antennas and Propagation, Vol. 7, Issue 7, 2013, pp 582-587. (SCI indexed)Runa Kumari and Santanu Kumar Behera, “Mushroom Shaped Dielectric Resonator Antenna for WiMAX Applications”, Microwave Opt Technol Lett. (MOTL, Wiley), Vol. 55, Issue. 6, Jun 2013, pp 1360-1365. (SCI indexed)Runa Kumari and Santanu Kumar Behera, “Nine Element Frequency independent Dielectric Resonator Array for X- band Applications”, Microwave Opt Technol Lett. (MOTL, Wiley),Vol. 55, No. 2, Feb 2013, pp 400-403. (SCI indexed)Runa Kumari and Santanu Kumar Behera, “Miniaturized Dual band Dielectric Resonator Antenna for IEEE 802.16d Fixed WiMAX Applications”, International Journal of RF and Microwave Computer-Aided Engineering (Wiley), Vol. 22, Issue 6, Nov 2012,  pp 682-689. (SCI indexed)Runa Kumari and Santanu Kumar Behera, “A Compact Multi Band Triangular shaped Dielectric Resonator Antenna Array with Slotted Ground Plane”, International Journal of Advanced Computer Engineering and Architecture (Mind reader IJACEA), Vol. 2, No. 2, Jun 2012,  pp 171-178.Runa Kumari and Santanu Kumar Behera, “Log Periodic Dielectric Resonator Antenna for Broadband Applications”, International Journal of Computer Applications (IJCA), ISBN 978-93-80864-71-10, No-7, 2011, pp 16-20.Runa Kumari and Santanu Kumar Behera, “Design of Log Periodic Dielectric Resonator Array for NATO-K band Applications”, International Journal of Signal and Imaging Systems Engineering, Vol. 7, No. 4, 2014,  pp 265-272.     Peer-Review Conferences:   R Venkata Sravya, and Runa Kumari, “Gain Enhancement of Dual-Band Triangular Patch with Hexagonal Mushroom EBG”, URSI Regional Conference on Radio Science (URSI-RCRS 2020), IIT (BHU) Varanasi, India, 12-14 Feb. 2020. (accepted)N. RajaSekhar, R. Ramana Reddy, Runa Kumari, and R. Sowjanya, “Performance Analysis of Conical Dielectric Resonator Antenna with Various Feeding Techniques”, IEEE Indian Conference on Antennas & Propagation (InCAP-2019), Ahmedabad, India, 19-22 Dec. 2019. R Venkata Sravya, and Runa Kumari, “Gain Enhancement of Annular RingPatch using Cascaded EBG”, IEEE MTT-S InternationalMicrowave Workshop Series on Advanced Materials and Processes, IMWS-AMP 2019,Ruhr University Bochum, Bochum, Germany, 16-18 Jul. 2019. V R Dinesh Kumar and Runa Kumari, “Meandering Slot Patch Antenna for UAV Applications”, IEEE International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW-2019), NIT Tiruchirappalli, India, 22-24 May 2019.  Hariharasudhan K and Runa Kumari, “Metasurface Loaded Patch Antenna for Wi-Fi Applications”, IEEE International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW-2019), NIT Tiruchirappalli, India, 22-24 May 2019.Pradeep Singh and Runa Kumari, “Monopole Patch Antenna for C band Application”, IEEE International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW-2019), NIT Tiruchirappalli, India, 22-24 May 2019.Pradeep Singh, Kota SivaRamaKrishna Chaitanya, and Runa Kumari, “Microstrip Patch Antenna for application in Intelligent Transport Systems”, IEEE International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW-2019), NIT Tiruchirappalli, India, 22-24 May 2019.Vinnakota Sarath Sankar, Basudev Majumder, and Runa Kumari, “Suspended Metasurface Loaded Dual Band Dual Polarized Dipole Antenna Array with Polarization Flexibility for RF Energy Harvesting”, URSI Asia Pacific Radio Science Conference (AP-RASC 2019), New Delhi, India, 9-15 Mar. 2019. Vinnakota Sarath Sankar, Runa Kumari, and Balamati Choudhury, “Metamaterial inspired Rectenna loaded with a DR for RF Energy Harvesting”, IEEE Indian Conference on Antennas & Propagation (InCAP-2018), Hyderabad, India, 16-19 Dec. 2018. Runa Kumari, and Balamati Choudhury, “Metamaterial loaded Printed Antenna for Unmanned Aerial Vehicle Applications”, IEEE International Conference on Applied Electromagnetics, Signal Processing & Communication (AESPC-2018), Bhubaneswar, India, 22-24 Oct. 2018. Vinnakota Sarath Sankar, Basudev Majumder, and Runa Kumari, “Dual Polarized High Gain Aperture coupled Antenna for RF Energy Harvesting”, IEEE INAE worIndia,kshop on Electromagnetics, (IIWE-2018), Trivandrum,  6-8 Dec. 2018. R Venkata Sravya, and Runa Kumari, “Gain Enhancement of Patch Antenna Using L-slotted Mushroom EBG”, IEEE International Conference on Signal Processing And Communication Engineering Systems (SPACES-2018), Guntur, A. P., India, 4-6 Jan. 2018. Dusi Aditya, and Runa Kumari, “Frequency Reconfigurable Dielectric ResonatorAntenna for Wireless Applications”, IEEE International Conference on Antenna Innovations and Modern Technologies (iAIM-2017), Bangalore, India,Sandeep Kumar, and Runa Kumari, , "Bandwidth Enhanced High Efficiency Compact CPW-Fed Metamaterial Antenna Based on ENG-TL Structure" , International Conference on Computational & Experimental Engineering and Science, ICCES 2017, Madeira, Portugal,  26th-30th June 2017.Shashank Solomon, and Runa Kumari, “Aperture Coupled Cylindrical Element Log Periodic Dielectric Resonator Antenna array for X Band”, IEEE India International Conference INDICON- 2015, Jamia Millia Islamia New Delhi, India, 17-20 Dec. 2015.Shashank Solomon, and Runa Kumari, “Aperture Coupled Rectangular Element Log Periodic Dielectric Resonator Antenna array for X Band”, IEEE Applied Electromagnetics Conference, AEMC- 2015, IIT Guwahati, India, 18-21 Dec. 2015.Shashank Solomon, and Runa Kumari, “Slotted Dielectric Resonator Antenna for Broadband Applications”, IEEE Global Conference on Communication Technologies, GCCT- 2015, Kanyakumari, India, Apr 2015.Runa Kumari, S K Behera, and Satish K. Sharma, “Aperture Coupled Wideband Dielectric Resonator Antenna Array with Polarization Reconfiguration”, IEEE Applied Electromagnetics Conference, AEMC- 2013, Bhubaneswar, India, Dec 2013.Imran Khan, Runa      Kumari and S. K. Behera, “A      Notched Chamfered Rectangular Dielectric Resonator Antenna Array for      Wireless Applications”, IEEE International      Multi Conference on Automation, Computing, Control, Communication and      Compressed Sensing ( iMac4s-2013), ISBN      978-1-4673-5088-4 Feb 2013, Kerala, India, Mar      2013.Imran Khan, Runa Kumari and S. K. Behera, “A Four Element Rectangular Dielectric Resonator Antenna Array For Wireless Applications”, IEEE International Conference on Emerging Trends in Computing, Communication and Nano-Technology (ICECCN-2013), ISBN 971-1-4673-5036-5 Feb 2013, Tirunelveli, Tamilnadu, India, Mar 2013.Runa Kumari, and S. K. Behera, “Mutual Coupling Reduction in C-shaped Dielectric Resonator Antenna array for MIMO Applications”, Annual IEEE India Conference (INDICON) 2012, ISBN 978-1-4673-2272-0, Cochin, India, Dec 2012.Runa Kumari, and S K Behera, “A Compact Dual Resonance Dielectric Resonator Antenna Array with partial ground plane”, IEEE International Conference on Recent Advances in Information Technology, RAIT- 2012, Dhanbad, India, Mar 2012.Sreenu Mudavath, Runa Kumari and S. K. Behera, “A Compact CPW fed Stacked Cylindrical Dielectric Resonator Antenna for WLAN Applications”, IEEE International Conference on Computing, Electronics and Electrical Technologies (ICCEET), 2012, ISBN 978-1-4673-0210-4, Nagercoil, Tamilnadu, India, Mar 2012.Runa Kumari, Kapil Parmar      and S. K. Behera, “A Dual band Triangular shaped DRA Array for WLAN/WiMAX      Applications”, Annual IEEE India Conference (INDICON), 2011, ISBN 978-1-4577-1110-7, Hyderabad,      India, Dec 2011.Sreenu Mudavath,      Runa Kumari and S. K. Behera, “A Compact CPW fed Dielectric Resonator      Antenna for WLAN Applications”, Annual      IEEE India Conference (INDICON), 2011, ISBN 978-1-4577-1110-7,      Hyderabad, India, Dec 2011.Kapil Parmar, Runa Kumari and S. K. Behera, “Half Cylindrical Dielectric Resonator Antenna for Dual band Applications”, International Symposium on Devices MEMS Intelligent Systems and Communication (ISDMISC-2011), ISBN 978-93-80747-80-2, Sikkim, India,  April 2011.Kapil Parmar,      Runa Kumari and S. K. Behera, “M-Shaped Dielectric Resonator Antenna for      WLAN Applications”, IEEE      International Conference on Devices & Communications (ICDeCOM-2011),      ISBN 978-1-4244-9190-2/11, Ranchi, India, Feb 2011.Runa Kumari, S. K. Behera and R. K. Mishra, “Log Periodic Dielectric Resonator Antenna for K and Ka-band Applications”, International Conference on Electronic Systems, ICES 2011, ISBN 978-93-80697-50-5, Rourkela, India, pp 264-267, Jan 2011 .Mahender      P, Runa Kumari      and S. K. Behera, “Compact Dual Band Hemispherical Dielectric Resonator      Antenna”, International Conference      on Electronic Systems, ICES 2011, ISBN 978-93-80697-50-5, Rourkela, India,      pp 252-254, Jan 2011 .Runa      Kumari, Kapil      Parmar and S. K. Behera, “Conformal Patch Fed Stacked Triangular      Dielectric Resonator Antenna for WLAN Applications”, IEEE International conference on Emerging Trends in Robotics and      Communication Technologies, INTERACT-2010, ISBN 978-1-4244-9006-6/10, Chennei,      India, pp 104-107, Dec 2010.Runa Kumari and S. K. Behera,      “Ring Dielectric Resonator Antenna for Broadband Applications”, IEEE International Conference on      Computational Intelligence and Communication Systems, CICN-2010, ISBN 978-0-7695-4254-6/10, Bhopal, India, pp 7-10, Nov 2010. 
+
+
+
+
+
+
+ProfileCoursesSponsored ProjectsResearch InterestPublicationsSeminarsConference/Workshop conducted
+
+
+
+
+
+
+
+Quick Links
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 Centre for Software Development,SDET Unit, BITS-Pilani, India. 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+
+       
+        Research Interest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+                        (function () {
+                            var cx = '004486812569786260579:g6q4as2bfly';
+                            var gcse = document.createElement('script');
+                            gcse.type = 'text/javascript';
+                            gcse.async = true;
+                            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                            var s = document.getElementsByTagName('script')[0];
+                            s.parentNode.insertBefore(gcse, s);
+                        })();
+
+
+
+University HomeCampus HomeDepartment Home
+
+
+
+                    Page last updated on 
+Tuesday, August 11, 2020
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+Research Interest
+
+
+
+
+
+ Research Interest
+
+
+
+
+
+Research Interest
+
+
+
+
+
+
+
+
+
+
+                                Research Interest
+
+
+Dielectric Resonator AntennaLog periodic AntennaReconfigurable Antenna Microstrip antennaAntenna Array Metamaterial Electromagnetic Band Gap
+
+
+
+
+
+
+ProfileCoursesSponsored ProjectsResearch InterestPublicationsSeminarsConference/Workshop conducted
+
+
+
+
+
+
+
+Quick Links
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 Centre for Software Development,SDET Unit, BITS-Pilani, India. 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+
+       
+        Seminars/ Invited Talk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+                        (function () {
+                            var cx = '004486812569786260579:g6q4as2bfly';
+                            var gcse = document.createElement('script');
+                            gcse.type = 'text/javascript';
+                            gcse.async = true;
+                            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                            var s = document.getElementsByTagName('script')[0];
+                            s.parentNode.insertBefore(gcse, s);
+                        })();
+
+
+
+University HomeCampus HomeDepartment Home
+
+
+
+                    Page last updated on 
+Tuesday, August 11, 2020
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+Seminars
+
+
+
+
+
+ Seminars/ Invited Talk
+
+
+
+
+
+Seminars/ Invited Talk
+
+
+
+
+
+
+
+
+
+
+                                Seminars
+
+
+Invited Talk: International:  On "Bandwidth enhanced techniques for Metamaterial antennas" at the Symposium on Metamaterial Science and Technology in ICCES (International Conference on Computational and Experimental Engineering and Sciences) 2017, at Madeira, Portugal.  National       Invited speaker on " Design, Evolution and specifications of latest antenna including Active Array Antenna " in the seminar on RADAR and Missile Technology at MCEME  (Military College of Electronics and Mechanical Engineering ) Secunderabad, Jan 2020.      Invited Speaker on “Low Specific Absorption Rate (SAR) Antenna for Biomedical Applications”, in Woman in Engineering (WiE) session at IEEE Indian Conference on Antennas & Propagation (InCAP-2018), Hyderabad, India, 16-19 December 2018.Guest Lecture on " Nano-Satellite and its subsystems" at MCEME  (Military College of Electronics and Mechanical Engineering ) Secunderabad, Feb 2018. Guest Lecture on " Latest Research & Applications of FRACTAL Antennas" at MCEME  (Military College of Electronics and Mechanical Engineering ) Secunderabad, Aug 2017. Guest Lecture on " Modern Antennas and its applications" in a Faculty Development Program (FDP) organized by the Department of Electronics and Communication Engineering, Vignan's Institute of Management and Technology for Women, Hyderabad.Guest Lecture on “Possible Realization of Dielectric Resonator Antennas” in Short Term Course on "Design & Simulation of Antennas and Microwave Devices (DSAMD-2016)" held during 1st June to 8th June 2016 conducted at National Institute of Technology, Rourkela. Guest Lecture on “Design of Dielectric Resonator Antennas” in Short Term Course on "Design & Simulation of Antennas and Microwave Devices (DSAMD-2015)" held during 3rd June to 10th June 2015 conducted at National Institute of Technology, Rourkela.      Session chair   Invited as a Session chair in IEEE International Conference on Applied Electromagnetics, Signal Processing & Communication (AESPC-2018), at Bhubaneswar, India, Oct 2018. Invited as a Session chair in IEEE Applied Electromagnetics Conference, AEMC 2015 at IIT Guwahati.  
+
+
+
+
+
+
+ProfileCoursesSponsored ProjectsResearch InterestPublicationsSeminarsConference/Workshop conducted
+
+
+
+
+
+
+
+Quick Links
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 Centre for Software Development,SDET Unit, BITS-Pilani, India. 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
+
+
+	Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+            BITS Pilani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (function () {
+                             var cx = '004486812569786260579:g6q4as2bfly';
+                             var gcse = document.createElement('script');
+                             gcse.type = 'text/javascript';
+                             gcse.async = true;
+                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+                             var s = document.getElementsByTagName('script')[0];
+                             s.parentNode.insertBefore(gcse, s);
+                         })();
+
+
+
+About UsKnow all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter Know all about usOverviewBITS Facts & HistoryVisit BITSAccreditationsAQARSTrade Marks SSR for NAAC reaccreditation uploadedNIRF DataAwards & AchievementsInstitutional Knowledge and Analysis CellOffices & AdministrationBITScan: The BITS Pilani Newsletter AdmissionsOn Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations On Campus: Pilani, Goa & HyderabadOverviewIntegrated First DegreeHigher DegreeDoctoral ProgrammesOn Campus: DubaiOverviewEligibilityApplication ProcedureScholarshipsFees StructureVisa InformationWork Integrated Learning ProgrammesOverviewProgrammes for IndividualsProgrammes for Organisations AcademicsIntegrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Integrated First DegreeOverviewB.E.B.Pharm.M.Sc.M.Sc.(Tech.)Higher DegreeOverviewM.E.M.Pharm.MBADoctoral ProgrammesOverviewFeaturesResearch AreasOn Campus Ph.DOff Campus Ph.DPart Time Ph.D. Research & InnovationResearch at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Research at a GlanceResearch at BITS PilaniSeminars & ConferencesR & D CentresSponsored Research ProjectsResearch Based ConsultancyShowcasePatentsResearch Scholar Data Policies & ProceduresPoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records PoliciesTeachingNon-TeachingPrevention of Sexual HarassmentConduct RulesProceduresProcedure for Issuance of Duplicate DegreeDuplicate TranscriptsVerification of QualificationEx-Employees VerificationChange of Name in the Institute Records Quick LinksBITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITSATPractice SchoolBITS LibraryPlacementsCareersWork Integrated Learning ProgrammesInternational Programmes and Collaboration BITS CampusesLocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus LocationsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus 
+BITSATInternational RelationsWILPP SBITS LibraryAlumniPlacementsCareersBITS Mail
+
+
+
+                    Last updated on 
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+            You are here:
+
+Home
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                       404. That’s an error.
+                        The requested URL was not found on this server.
+                        click here to go to the home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Useful LinksLearning ResourcesPlacementsCareersBITSATPractice SchoolWILPInternational Programmes and Collaboration Division Prevention of Sexual HarassmentImportant LinksNIRF DATAERPProcedure for Issuance of Duplicate DegreeDubai Campus e-ServicesPilani Campus e-ServicesGoa Campus e-ServicesHyderabad Campus e-ServicesDownloadsIntroducing BITS to Prospective FacultyBITSAT 2020 BrochureBITS IT PolicyContactsPilani CampusDubai CampusK K Birla Goa CampusHyderabad Campus
+
+
+
+
+
+An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964
+© 2020 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in 
+Designed and developed by fractal | ink design studios 
+
+
+
+
+
